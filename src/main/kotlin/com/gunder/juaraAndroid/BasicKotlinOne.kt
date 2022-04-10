@@ -3,11 +3,10 @@ package com.gunder.juaraAndroid
 fun main() {
     val age = 22
     val layers = 5
-    val name = "Guna Dermawan"
+    val name = "Bro"
     printBorder("`-._,-'", 4)
     println("happy birthday, $name!")
     printBorder("`-._,-'", 4)
-//    lets print a cake!
     printCakeCandles(age)
     printCakeTop(age)
     printCakeBottom(age, layers)
