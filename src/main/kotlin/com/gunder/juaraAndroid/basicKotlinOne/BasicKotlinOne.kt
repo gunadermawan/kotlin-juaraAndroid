@@ -1,4 +1,4 @@
-package com.gunder.juaraAndroid
+package com.gunder.juaraAndroid.basicKotlinOne
 
 fun main() {
     val age = 22
